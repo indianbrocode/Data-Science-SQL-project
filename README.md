@@ -1,4 +1,4 @@
-# Data-Science-SQL-project
+# Retail Sales Analysis -SQL-project
 Retail-Sales-Analysis-SQL-Project--P1
 # Retail Sales Analysis SQL Project
 
